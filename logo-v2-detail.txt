@@ -1,0 +1,13 @@
+bg: #00c7feff
+----
+C
+C
+1800
+Lato
+
+S
+/
+1500
+Lato
+---
+book near line bg: #fee0c4
