@@ -1,6 +1,8 @@
 # Logo
 Logo of CCSource.org © 2018 all rights reserved
 
+Lastest LTS logo: v5
+
 ---
 
 # Version list
@@ -29,4 +31,6 @@ Originally designed as an improved version of v3, but has been rejected due to s
 
 ---
 
-## v5 (in process)
+## v5 (latest)
+
+The lastest LTS (long term support) logo for CCSource.org. All resource owned by CCSource.org will be mark under this logo, and all property refers to/based on CCSource.org's property should link to CCSource.org with text "CCSource.org" or **this** logo.
