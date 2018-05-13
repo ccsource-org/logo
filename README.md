@@ -1,7 +1,7 @@
 # Logo
 Logo of CCSource.org © 2018 all rights reserved
 
-Lastest LTS logo: v5
+## Lastest LTS logo: [v5](https://github.com/ccsource-org/logo/tree/master/v5)
 
 ---
 
